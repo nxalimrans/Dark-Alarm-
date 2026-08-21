@@ -1,0 +1,25 @@
+{
+  "name": "Dark Alarm — Math Challenge Alarm Clock",
+  "short_name": "Dark Alarm",
+  "description": "The Android alarm clock that makes you solve a math challenge or scan a real object before it stops ringing.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0714",
+  "theme_color": "#0a0714",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/assets/images/icon.png",
+      "sizes": "150x150",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

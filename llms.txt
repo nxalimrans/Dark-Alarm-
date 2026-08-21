@@ -1,0 +1,23 @@
+# Dark Alarm
+
+> Dark Alarm is a free Android alarm clock app that stops oversleeping by requiring a wake-up challenge — a math problem, a real-object camera scan, or both — before the alarm will stop ringing.
+
+Dark Alarm is developed by Imal Imran and distributed as a direct APK download from this site. The Android package ID is `com.imalimrans.darkalarm` and it requires Android 7.0 (Nougat) or newer. The app is free, with no account or sign-in required.
+
+## Key features
+
+- **Math Challenge**: solve Easy, Medium, or Hard equations (arithmetic through basic algebra) to dismiss the alarm; the number of problems is configurable.
+- **Scan Object**: point the camera at a specific real object chosen in advance; the alarm only stops once that object is detected, which forces the user out of bed.
+- **Extreme Mode**: combines Math Challenge and Scan Object in a single alarm, for heavy sleepers.
+- **Flexible scheduling**: each alarm can repeat daily, on selected weekdays, or ring once.
+- **Custom sound and vibration** per alarm.
+- **Auto-Stop Duration**: a configurable safety cutoff (e.g. 15–60 minutes) that stops an alarm automatically if the challenge is never completed.
+
+## Pages
+
+- [Home](https://darkalarm.pages.dev/): full feature overview, screenshots, how it works, FAQ, and download.
+- [Privacy Policy](https://darkalarm.pages.dev/privacy-policy/): permissions, data handling, and contact information.
+
+## Contact
+
+Developer: Imal Imran — https://facebook.com/imalimrans.id
